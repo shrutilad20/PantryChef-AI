@@ -1,0 +1,5 @@
+{
+  "name": "PantryChef AI",
+  "description": "An AI-powered recipe generator that creates delicious recipes from the ingredients you have on hand. Simply enter your ingredients and let our AI chef inspire your next meal.",
+  "requestFramePermissions": []
+}
